@@ -10,6 +10,8 @@
 - unordered list item
 1. ordered list item
 
+> blockquote
+
 > **Note**
 > Some tip here!
 
